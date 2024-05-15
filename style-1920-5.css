@@ -12,7 +12,7 @@ body{
 	position: absolute;
 	width: 100%;
 	height: 100vh;
-	background: #FFECDF;
+	background: #000;
 }
 
 body::-webkit-scrollbar {
